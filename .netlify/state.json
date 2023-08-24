@@ -1,3 +1,20 @@
 {
-	"siteId": "ed03293b-ba32-43a3-a145-d2536db9858e"
+	"siteId": "ed03293b-ba32-43a3-a145-d2536db9858e",
+	"geolocation": {
+		"data": {
+			"city": "Ottawa",
+			"country": {
+				"code": "CA",
+				"name": "Canada"
+			},
+			"subdivision": {
+				"code": "ON",
+				"name": "Ontario"
+			},
+			"timezone": "America/Toronto",
+			"latitude": 45.3431,
+			"longitude": -75.8291
+		},
+		"timestamp": 1692911817164
+	}
 }
